@@ -1,1 +1,6 @@
+COMP 3104 DevOps: Practical Skills for Modern Software Development
+
 COMP 3104, DevOps, is part of the Computer Programming and Analysis program at George Brown College. In this course, students learn essential DevOps practices, all aimed at boosting both productivity and teamwork between development and operations teams. The course covers a range of tools and techniques, from continuous integration and deployment strategies to containerization and cloud services. Students also get practical, hands-on experience applying these concepts in real-world settings, which helps prepare them for industry challenges.
+
+The course focuses on practical, hands-on learning, with lab exercises that let students apply DevOps techniques using industry-standard tools like Jenkins, Docker, and GitHub. Students also learn how to set up CI/CD (Continuous Integration/Continuous Deployment) pipelines, helping ensure their code is smoothly integrated and deployed. By working with these tools, students develop a strong foundation for managing software development lifecycles.
+
