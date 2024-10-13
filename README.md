@@ -5,7 +5,7 @@
 - **Leader:** Adler Pazhouhan (101446184) - GitHub: 
 - **Member 1:** Nigar Ahmadova (101431281) - GitHub: https://github.com/Nigar0826)
 - **Member 2:** Anar Samadzade (101391879) - GitHub:
-- **Member 3:** Onat Turan (101216227) - GitHub:
+- **Member 3:** Onat Turan (101216227) - GitHub: https://github.com/onatturan
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course. The project focuses on collaborative Git workflows, branching strategies, and CI/CD pipeline integration using GitHub Actions.
