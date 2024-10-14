@@ -16,7 +16,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $token2  # Ortam değişkeni doğru tanımlandı
+  github_token: COMP3104_TOKEN  # Ortam değişkeni doğru tanımlandı
   local_dir: build
   on:
     branch: main
