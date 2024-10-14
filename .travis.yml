@@ -3,6 +3,16 @@ language: node_js
 node_js:
   - "14"  # Sabit bir sürüm belirledik
 
+install:
+  - npm install  # Bağımlılıkları yüklemek için kullanılır
+
+cache:
+  directories:
+    - node_modules
+
+script:
+  - npm run build  # Eğer build işlemi varsa
+
 deploy:
   provider: pages
   skip_cleanup: true
